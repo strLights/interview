@@ -1,0 +1,26 @@
+<template><h1 id="介绍" tabindex="-1"><a class="header-anchor" href="#介绍" aria-hidden="true">#</a> 介绍</h1>
+<p>本章节是http常见的面试题：</p>
+<ul>
+<li>DNS解析过程</li>
+<li>h2的如何提升性能</li>
+<li>http001-get和post区别★★★</li>
+<li>http002-常见http响应状态码</li>
+<li>http003-URI和URL的区别</li>
+<li>http004-http和https的区别</li>
+<li>http005-http的工作原理</li>
+<li>http006-HTTPS工作原理</li>
+<li>http007-TCP和UDP的区别</li>
+<li>http008-常见状态码简要版★</li>
+<li>http009-http的缓存机制★★★</li>
+<li>http010-http的常见header头★</li>
+<li>http011-手写原生请求★★</li>
+<li>http012-跨域是如何造成的怎么处理★★★</li>
+<li>http013-https加密的过程</li>
+<li>http014-TCP的流量控制</li>
+<li>http015-http1.0和http1.1的区别</li>
+<li>restful-api</li>
+<li>SSL协议的加密方式</li>
+<li>tcp的三次握手</li>
+<li>浏览器跨标签页通信方式</li>
+</ul>
+</template>
